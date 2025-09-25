@@ -6,3 +6,7 @@ realm = "shared"
 
 [dependencies]
 freeze = "duckarmor/freeze@0.1.4"
+loader = "sleitnick/loader@2.0.0"
+trove = "sleitnick/trove@1.5.1"
+signal = "sleitnick/signal@2.0.3"
+replion = "ytrev/replion@2.0.1"
